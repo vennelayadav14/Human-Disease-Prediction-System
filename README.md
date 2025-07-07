@@ -1,2 +1,2 @@
 # Human-Disease-Prediction-System
-A machine learning-based system that predicts human diseases from input symptoms using SVM, Naive Bayes, and Random Forest. It helps in early detection by providing the predicted disease, its description, and precautionary measures.
+This project uses Machine Learning algorithms to predict possible human diseases based on input symptoms. The system takes user-provided symptoms and predicts the most likely disease using trained models such as Support Vector Machine (SVM), Naive Bayes, and Random Forest. It helps in early identification and supports healthcare decisions by providing disease name, description, and precautionary measures.
